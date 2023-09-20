@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1598378576 source:c:\users\florinfz\desktop\snake_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<allegro.h>
+	<time.h>
+	<math.h>
+
+1600021002 source:c:\users\florinfz\desktop\snake_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<allegro.h>
+	<time.h>
+	<math.h>
+
